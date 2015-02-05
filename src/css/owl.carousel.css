@@ -35,11 +35,6 @@
   -webkit-tap-highlight-color: transparent;
   -webkit-touch-callout: none;
 }
-.owl-carousel .owl-item img {
-  display: block;
-  width: 100%;
-  -webkit-transform-style: preserve-3d;
-}
 .owl-carousel .owl-nav.disabled,
 .owl-carousel .owl-dots.disabled {
   display: none;
@@ -92,3 +87,5 @@
 .no-js .owl-carousel {
   display: block;
 }
+
+/*# sourceMappingURL=owl.carousel.css.map */
